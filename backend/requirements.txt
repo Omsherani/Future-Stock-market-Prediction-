@@ -1,0 +1,9 @@
+flask
+flask-cors
+yfinance
+pandas
+numpy
+scikit-learn
+tensorflow
+requests
+tradingview-ta
